@@ -8,8 +8,7 @@ WHITE='\033[1;37m'
 YELLOW='\033[1;33m'
 
 WORKDIR=$(pwd)
-FILENAME_230='com.freestylelibre.app.de_2019-04-22'
-FILENAME_240='com.freestylelibre.app.de_2020-02-15'
+FILENAME_230='com.freestylelibre.app.de_2020-02-15'
 
 # wget HSTS-bugfix for debian as subsystem in Windows
 touch ~/.wget-hsts
